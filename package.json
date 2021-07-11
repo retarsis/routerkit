@@ -62,7 +62,7 @@
     "protractor": "7.0.0",
     "snyk": "1.622.0",
     "ts-morph": "11.0.3",
-    "ts-node": "10.0.0",
+    "ts-node": "10.1.0",
     "tsickle": "0.43.0",
     "tslib": "2.3.0",
     "tslint": "6.1.3",
