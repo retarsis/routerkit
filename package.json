@@ -60,7 +60,7 @@
     "ora": "5.4.1",
     "prettier": "2.3.2",
     "protractor": "7.0.0",
-    "snyk": "1.622.0",
+    "snyk": "1.663.0",
     "ts-morph": "11.0.3",
     "ts-node": "10.0.0",
     "tsickle": "0.43.0",
